@@ -8,6 +8,7 @@ body {
 	border-style:dotted;
 	background-color: black;
 	margin: auto;
+	margin-top: 3%;
 }
 
 .vizitka {
@@ -15,11 +16,23 @@ body {
 	height: auto;
 	background-color: antiquewhite;
 	text-align: center;
-	padding-bottom: 3%;
+	padding: 5%;
+	padding-bottom: 10%;
 }
 
 img {
 	border: black;
 	border-style:groove;
+	border-radius: 50%;
+	border-color: blueviolet;
+}
+
+h2 {
+	font-weight: 300;
+	color: blueviolet;
+}
+
+h1 {
+	color:blueviolet;
 }
 
