@@ -6,10 +6,13 @@ body {
 	max-width: 20rem;
 	border: black;
 	border-style:dotted;
+	background-color: black;
 }
 
 .vizitka {
-	margin-left: 18%;
-	margin-bottom: 5%;
+	width: 100%;
+	height: auto;
+	background-color: antiquewhite;
+	text-align: center;
 }
 
