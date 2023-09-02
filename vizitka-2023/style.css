@@ -26,6 +26,7 @@ img {
 	border-style:groove;
 	border-radius: 50%;
 	border-color: blueviolet;
+	box-shadow: blueviolet 5px 2px 3px;
 }
 
 h2 {
